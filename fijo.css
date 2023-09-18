@@ -1,0 +1,13 @@
+.caja {
+    background-color: red;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
+
+.parrafos {
+    background-color: lightcoral;
+    padding: 100px;
+}
